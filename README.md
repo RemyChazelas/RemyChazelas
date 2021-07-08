@@ -3,7 +3,6 @@
  I study @ the Wild Code School for an exciting new life as a web developer! 
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth 
-<br>
 
 ## Connect with me
 
