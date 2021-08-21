@@ -1,7 +1,7 @@
 ### Hello World from France 👋 ###
 
  I study @ the Wild Code School for an exciting new life as a web developer! 
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using ReactJs and NodeJs
 - 🌱 Learning design patterns in depth 
 
 ## Connect with me
